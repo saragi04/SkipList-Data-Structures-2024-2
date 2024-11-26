@@ -11,7 +11,7 @@ Compartimos con ustedes dos videos donde podrán ver la explicación de todo lo 
 - [![Video 1 - 45 minutos aprox](https://img.youtube.com/vi/U4Xz4a4iLtA/hqdefault.jpg)](https://youtu.be/U4Xz4a4iLtA)
   *Duración aproximada: 45 minutos*
 
-- [![Video 2 - 30 minutos aprox](https://img.youtube.com/vi/yX4ppJlCovo/hqdefault.jpg)](https://youtu.be/yX4ppJlCovo)
+- [![Video 2 - 30 minutos aprox](https://img.youtube.com/vi/D1Q6M9ti71I/hqdefault.jpg)](https://youtu.be/D1Q6M9ti71I)
   *Duración aproximada: 30 minutos*
 
 A continuación, podrás leer un poco más acercar del skiplist, su concepto, en base a qué surgió, quién fue su creador, algunas aplicaciones y demás.
