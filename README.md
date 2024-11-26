@@ -6,8 +6,13 @@ En este repositorio encontrarás información sobre la estructura de datos SkipL
 
 Compartimos con ustedes dos videos donde podrán ver la explicación de todo lo que contiene este repositorio, a continuación los links de cada uno:
 
-- Video 1 (45 minutos aprox): https://youtu.be/bBSPVuY1iwI
-- Video 2 (30 minutos aprox): https://youtu.be/oFvf6zDoITQ?feature=shared
+## Videos
+
+- [![Video 1 - 45 minutos aprox](https://img.youtube.com/vi/U4Xz4a4iLtA/hqdefault.jpg)](https://youtu.be/U4Xz4a4iLtA)
+  *Duración aproximada: 45 minutos*
+
+- [![Video 2 - 30 minutos aprox](https://img.youtube.com/vi/yX4ppJlCovo/hqdefault.jpg)](https://youtu.be/yX4ppJlCovo)
+  *Duración aproximada: 30 minutos*
 
 A continuación, podrás leer un poco más acercar del skiplist, su concepto, en base a qué surgió, quién fue su creador, algunas aplicaciones y demás.
 
